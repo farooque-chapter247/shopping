@@ -1,0 +1,23 @@
+{
+    "/js/laravel.app.js": "/js/laravel.app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/my-order.css": "/css/my-order.css",
+    "/css/front-order-detail.css": "/css/front-order-detail.css",
+    "/css/loader.css": "/css/loader.css",
+    "/js/my-order.js": "/js/my-order.js",
+    "/js/pay.js": "/js/pay.js",
+    "/js/table_datatables.js": "/js/table_datatables.js",
+    "/js/codebase/codebase.app.js": "/js/codebase/codebase.app.js",
+    "/js/codebase/codebase.core.js": "/js/codebase/codebase.core.js",
+    "/js/validation/parsley-validation.js": "/js/validation/parsley-validation.js",
+    "/js/croppie.js": "/js/croppie.js",
+    "/css/codebase/codebase.css": "/css/codebase/codebase.css",
+    "/css/custom.css": "/css/custom.css",
+    "/css/front.css": "/css/front.css",
+    "/css/croppie.css": "/css/croppie.css",
+    "/css/product-detail.css": "/css/product-detail.css",
+    "/css/header.css": "/css/header.css",
+    "/js/product.js": "/js/product.js",
+    "/css/product.css": "/css/product.css",
+    "/js/product-datatable.js": "/js/product-datatable.js"
+}

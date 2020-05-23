@@ -1,0 +1,9 @@
+{
+    "Category": true,
+    "SubCateogry": true,
+    "Cateogry": true,
+    "SubCategory": true,
+    "Product": true,
+    "Cart": true,
+    "Order": true
+}
